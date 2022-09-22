@@ -5,7 +5,7 @@
   ### <b> YunJMin </b> 
 
 
-<a href="https://github.com/YunJMin"></a>
+<a href="https://github.com/YunJiMin"></a>
   <a href="https://www.instagram.com/jimin_4062/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/>
 </a>
 </div>
