@@ -3,10 +3,10 @@
 
   <div align="center">
 
-  ### <b> hyeonjoonpark </b> 
+  ### <b> YunJMin </b> 
 
 
-<a href="https://github.com/hyeonjoonpark"></a>
+<a href="https://github.com/jimin_4062"></a>
   <a href="https://www.instagram.com/jjoon1379/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/>
 </a>
 </div>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-0000ff?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-e4e94f?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-02a102?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-02a102?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-d3a102?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Python-2788c5?style=for-the-badge&logo=python&logoColor=white">
 <br>
